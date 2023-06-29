@@ -1,0 +1,6 @@
+{
+  "name": "com.unity.justgame.core",
+  "displayName": "JustGame Core",
+  "version": "0.0.3"
+   "description": "This packages contains all system scripts which is used for fresh new project"
+}
